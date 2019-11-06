@@ -1,1 +1,2 @@
 # JavaAppiumTests
+test1
